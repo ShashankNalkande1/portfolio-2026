@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashankNalkande1/portfolio-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ShashankNalkande1/portfolio-2026/issues"
+  },
+  "homepage": "https://github.com/ShashankNalkande1/portfolio-2026#readme",
+  "dependencies": {
+    "ssh2": "^1.17.0"
+  }
+}
